@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(200, 200, 255);
+    font: normal normal 20px Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+}
+section{
+    border-radius: 10px;
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+footer{
+    font-style: italic;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 1px black;
+}
+header{
+ text-align: center;
+}
+#foto{
+    width: 450px;
+    height: 500px;
+}
+#msg2{
+    margin: auto; 
+    text-align: center;
+    margin: 0px;
+}
+#msg{
+    font-size: 40px;
+    text-align: center;
+    margin: 0px;
+}
+div{
+    padding: 10px;
+}
